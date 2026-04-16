@@ -34,5 +34,4 @@ Make sure all tools are accessible from your system’s PATH.
 3. Clone this repository.
 
 
-
-* code in spanish
+_code in spanish
